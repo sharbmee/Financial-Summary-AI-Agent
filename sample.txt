@@ -1,0 +1,34 @@
+Return a sample output for demonstration purposes"""
+        return """
+<b>📊 Daily Financial Markets Summary</b>
+<i>December 15, 2023 | US Markets Close</i>
+
+<b>📈 Market Overview:</b>
+U.S. stocks closed mixed on Thursday as investors digested the Federal Reserve's policy decision. The Dow Jones Industrial Average rose 0.4%, while the S&P 500 edged up 0.1%. The Nasdaq Composite fell 0.3% as tech stocks faced pressure.
+
+<b>🔑 Key News:</b>
+• Federal Reserve held interest rates steady but signaled potential cuts in 2024
+• Retail sales data came in stronger than expected, rising 0.6% in November
+• Adobe shares dropped 6% after the company's revenue forecast disappointed investors
+• Oil prices climbed 2.3% amid Middle East supply concerns
+
+<b>📊 Major Indices Performance:</b>
+• Dow Jones: +0.4% (36,577 points)
+• S&P 500: +0.1% (4,643 points)
+• Nasdaq: -0.3% (14,533 points)
+• Russell 2000: +0.8% (1,923 points)
+
+<b>🔮 Outlook:</b>
+Markets are likely to remain volatile as investors assess the Fed's pivot and economic data. Focus will shift to upcoming housing data and consumer sentiment figures.
+
+<b>🌐 Translations:</b>
+<code>Arabic:</code>
+ملخص أسواق المال اليومي: ارتفع مؤشر داو جونز 0.4٪ بينما انخفض Nasdaq 0.3٪. أبقى الاحتياطي الفيدرالي الأسعار دون تغيير لكنه أشار إلى تخفيضات محتملة في 2024.
+
+<code>Hindi:</code>
+दैनिक वित्तीय बाजार सारांश: डॉव जोन्स 0.4% बढ़ा जबकि Nasdaq 0.3% गिरा। फेडरल रिजर्व ने दरें अपरिवर्तित रखीं लेकिन 2024 में संभावित कटौती का संकेत दिया।
+
+<code>Hebrew:</code>
+סיכום שווקים פיננסיים יומי: Dow Jones עלה 0.4% while Nasdaq ירד 0.3%. הפדרל ריזרב השאיר את הריביות ללא שינוי אך רמז לקיצוצים אפשריים ב-2024.
+
+#FinancialMarkets #Investing #Trading #Stocks
