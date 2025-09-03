@@ -1,0 +1,42 @@
+2025-08-28 03:57:27,864 - __main__ - INFO - Loaded environment variables from .env file
+2025-08-28 03:57:27,865 - __main__ - INFO - Initializing Financial Markets Crew...
+2025-08-28 03:57:27,984 - __main__ - INFO - Starting crew execution...
+2025-08-28 03:57:28,099 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-08-28 03:57:31,460 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-28 03:57:31,687 - __main__ - ERROR - Error in crew execution: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-08-28 04:20:55,239 - __main__ - INFO - Loaded environment variables from .env file
+2025-08-28 04:20:55,241 - __main__ - INFO - Initializing Financial Markets Crew...
+2025-08-28 04:20:55,301 - __main__ - INFO - Starting crew execution...
+2025-08-28 04:20:55,381 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-08-28 04:20:57,599 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-28 04:20:57,693 - __main__ - ERROR - Error in crew execution: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-08-28 04:23:22,587 - __main__ - INFO - Loaded environment variables from .env file
+2025-08-28 04:23:22,588 - __main__ - INFO - Initializing Financial Markets Crew...
+2025-08-28 04:23:22,626 - __main__ - INFO - Starting crew execution...
+2025-08-28 04:23:22,699 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-08-28 04:23:24,538 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-08-28 04:23:24,624 - __main__ - ERROR - Error in crew execution: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-09-02 09:41:01,219 - __main__ - INFO - Loaded environment variables from .env file
+2025-09-02 09:41:01,225 - __main__ - INFO - Initializing Financial Markets Crew...
+2025-09-02 09:41:01,383 - __main__ - INFO - Starting crew execution...
+2025-09-02 09:41:01,508 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-02 09:41:05,267 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-02 09:41:05,557 - __main__ - ERROR - Error in crew execution: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-09-02 22:03:07,873 - __main__ - INFO - Loaded environment variables from .env file
+2025-09-02 22:03:07,878 - __main__ - INFO - Initializing Financial Markets Crew...
+2025-09-02 22:03:08,029 - __main__ - INFO - Starting crew execution...
+2025-09-02 22:03:08,126 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-02 22:03:11,318 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-02 22:03:11,777 - __main__ - ERROR - Error in crew execution: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-09-03 21:01:47,069 - __main__ - INFO - Loaded environment variables from .env file
+2025-09-03 21:01:47,071 - __main__ - INFO - Initializing Financial Markets Crew...
+2025-09-03 21:01:47,169 - __main__ - INFO - Starting crew execution...
+2025-09-03 21:01:47,261 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-4o-mini; provider = openai
+2025-09-03 21:01:49,755 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-09-03 21:01:50,242 - __main__ - ERROR - Error in crew execution: litellm.AuthenticationError: AuthenticationError: OpenAIException - Incorrect API key provided: your_api*****here. You can find your API key at https://platform.openai.com/account/api-keys.
